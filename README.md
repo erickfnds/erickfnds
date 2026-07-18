@@ -18,4 +18,4 @@ Sou estudante de *Análise e Desenvolvimento de Sistemas (ADS) focado em aprende
 - **Editores & Ambientes:** MAMP / VS Code
 
 ---
-*“Focado em praticar todos os dias, evoluir minha lógica de programação e transformar ideias em códigos reais.”*
+
