@@ -8,14 +8,14 @@ Sou estudante de *Análise e Desenvolvimento de Sistemas (ADS) focado em aprende
 - 💻 Atualmente praticando lógica de programação com C e WordPress/Elementor.
 
 ### 🎯Meus Objetivos:
-- Me aprofundar em linguagens como Python, Java ou C#.
+- Me aprofundar em linguagens como Python, Javascript ou C#.
 - Aprender sobre Banco de Dados (como MySQL/PostgreSQL) e Desenvolvimento de APIs.
 - Futuramente, realizar uma pós-graduação em Cibersegurança.
 
 ### 🛠️ Tecnologias e Ferramentas em aprendizado
-- **Lógica & Desenvolvimento:** Portugol
+- **Lógica & Desenvolvimento:** C, Portugol
 - **Web & Design:** WordPress / Elementor
-- **Editores & Ambientes:** MAMP / VS Code
+- **Editores & Ambientes:** VS Code, MAMP, Git / GitHub
 
 ---
 
