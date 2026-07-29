@@ -1,11 +1,11 @@
 
-# Olá, eu sou o Erik! 👋
+# Olá, eu sou o Erik! 
 
 Sou estudante de *Análise e Desenvolvimento de Sistemas (ADS) focado em aprender lógica de programação e construir as bases para me tornar um desenvolvedor de software.
 
 ### 🚀 Sobre mim
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS).
-- 💻 Atualmente praticando lógica de programação com C e WordPress/Elementor.
+- 💻 Atualmente praticando lógica de programação com C, HTML5, JavaScript e CSS3 WordPress/Elementor.
 
 ### 🎯Meus Objetivos:
 - Me aprofundar em linguagens como Python, Javascript ou C#.
@@ -13,7 +13,7 @@ Sou estudante de *Análise e Desenvolvimento de Sistemas (ADS) focado em aprende
 - Futuramente, realizar uma pós-graduação em Cibersegurança.
 
 ### 🛠️ Tecnologias e Ferramentas em aprendizado
-- **Lógica & Desenvolvimento:** C, Portugol
+- **Lógica & Desenvolvimento:** C, HTML5, CSS3, JavaScript
 - **Web & Design:** WordPress / Elementor
 - **Editores & Ambientes:** VS Code, MAMP, Git / GitHub
 
