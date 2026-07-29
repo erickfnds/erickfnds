@@ -5,7 +5,7 @@ Sou estudante de *Análise e Desenvolvimento de Sistemas (ADS) focado em aprende
 
 ### 🚀 Sobre mim
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS).
-- 💻 Atualmente praticando lógica de programação com C, HTML5, JavaScript e CSS3 WordPress/Elementor.
+- 💻 Atualmente praticando lógica de programação com C, HTML5, JavaScript e CSS3 e WordPress/Elementor.
 
 ### 🎯Meus Objetivos:
 - Me aprofundar em linguagens como Python, Javascript ou C#.
