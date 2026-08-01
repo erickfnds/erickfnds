@@ -1,21 +1,47 @@
+# Olá, eu sou o Erik! 👋
 
-# Olá, eu sou o Erik! 
+Sou estudante de **Análise e Desenvolvimento de Sistemas** focado em me tornar um **Desenvolvedor Full Stack**, com interesse em desenvolvimento web e maior afinidade com a área de back-end.
+---
 
-Sou estudante de *Análise e Desenvolvimento de Sistemas (ADS) focado em aprender lógica de programação e construir as bases para me tornar um desenvolvedor de software.
-
-### 🚀 Sobre mim
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS).
-- 💻 Atualmente praticando lógica de programação com C, HTML5, JavaScript e CSS3 e WordPress/Elementor.
-
-### 🎯Meus Objetivos:
-- Me aprofundar em linguagens como Python, Javascript ou C#.
-- Aprender sobre Banco de Dados (como MySQL/PostgreSQL) e Desenvolvimento de APIs.
-- Futuramente, realizar uma pós-graduação em Cibersegurança.
-
-### 🛠️ Tecnologias e Ferramentas em aprendizado
-- **Lógica & Desenvolvimento:** C, HTML5, CSS3, JavaScript
-- **Web & Design:** WordPress / Elementor
-- **Editores & Ambientes:** VS Code, MAMP, Git / GitHub
+## 🚀 Sobre mim
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS)
+- 💻 Desenvolvendo projetos práticos com HTML, CSS e JavaScript
+- 🎨 Praticando criação de interfaces e replicação de layouts reais (Netflix, Instagram, Spotify)
+- 📈 Evoluindo constantemente através de projetos e desafios
 
 ---
 
+## 🎯 Objetivos
+- Evoluir para desenvolvimento **Full Stack**
+- Criar APIs utilizando **Node.js**
+- Dominar bancos de dados relacionais (**MySQL / PostgreSQL**)
+- Futuro foco em **Cibersegurança**
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 🟢 Em prática
+- HTML5  
+- CSS3  
+- JavaScript (básico)  
+- Git e GitHub  
+
+### 🟡 Estudando
+- Node.js  
+- TypeScript  
+- Banco de Dados (MySQL / PostgreSQL)  
+
+### ⚙️ Ferramentas
+- VS Code  
+- WordPress (Elementor)  
+- MAMP  
+- phpMyAdmin  
+
+---
+
+## 📂 Projetos em destaque
+- 🔐 Login Spotify (Clone)
+- 🎬 Login Netflix (Clone)
+
+---
